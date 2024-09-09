@@ -1,0 +1,24 @@
+.hen{
+    background-image: url("../images/pharmacy1.jpg");
+}
+h1{
+    font-size: 40px;
+    text-decoration: underline;
+    color: darkred;
+}
+p{
+    color: darkblue;
+    font-size: 25px;
+}
+span{
+    font-size: 30px;
+    color: darkgreen;
+}
+li{
+  font-size: 50px;
+    color: red;
+}
+a{
+    font-size: 40px;
+    color:brown;
+}
